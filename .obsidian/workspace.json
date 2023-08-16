@@ -1,0 +1,158 @@
+{
+  "main": {
+    "id": "4fbac992b6ca614f",
+    "type": "split",
+    "children": [
+      {
+        "id": "e6cefe28e4b70e8e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d8475f371062c7bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "School/CS 82.22A - Intro to Networks/Notes/Chapter 1 Networking Today.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6cd0c10d0032025d",
+    "type": "split",
+    "children": [
+      {
+        "id": "908203bfb772b2a3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e571f3eda7eb07eb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fe77f6fc7e26923a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "22ddd024b20bc4ea",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "889002354e71a238",
+    "type": "split",
+    "children": [
+      {
+        "id": "4b7c309caf763d39",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fc63be004e63dd91",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "School/CS 82.22A - Intro to Networks/Notes/Chapter 1 Networking Today.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a7716ffc16e9805e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "School/CS 82.22A - Intro to Networks/Notes/Chapter 1 Networking Today.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a8dfefd5e6bdc7d2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "fe3080103d4f0430",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "School/CS 82.22A - Intro to Networks/Notes/Chapter 1 Networking Today.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "d8475f371062c7bf",
+  "lastOpenFiles": [
+    "Untitled.md",
+    "School/CS 82.22A - Intro to Networks/Notes/Chapter 1 Networking Today.md",
+    "School/CS 82.22A - Intro to Networks/Notes",
+    "School/CS 82.22A - Intro to Networks/Homework",
+    "School/CS 82.22A - Intro to Networks",
+    "School"
+  ]
+}
